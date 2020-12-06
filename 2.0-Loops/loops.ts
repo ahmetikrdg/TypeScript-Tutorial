@@ -15,7 +15,7 @@ for(let i of isimler){
  for of operasyonumda ise direk isimler gelir
 
 Eğer for in operasonunda isimleri yazdırmak istersek console.log(isimler[i]); yazmamız gerekir.
-Bu şu demek indexteki değeri al ekrana bas
+Bu şu demek indexte ki değeri al ekrana bas
 */
 
 //Loops ilgili daha fazla bilgi edinmek için:
